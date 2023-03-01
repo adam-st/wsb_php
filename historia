@@ -1,0 +1,6 @@
+    1  alias c=clear
+    2  git clone https://github.com/adam-st/wsb_php.git
+    3  ls
+    4  cd wsb_php
+    5  git status
+    6  history > historia
